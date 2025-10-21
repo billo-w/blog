@@ -17,7 +17,7 @@ title = "B Waw"
  [params.author]
    name = "Belal Waw"
    email = "belalwaw@gmail.com"
-#   image = "img/blowfish_logo.png"
+   image = "PROFILEIMAGE.jpg"
 #   imageQuality = 96
    headline = "I'm only human"
    bio = "DevOps engineer and a tech geek 🙂"
